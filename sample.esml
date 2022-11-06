@@ -1,0 +1,3 @@
+SampleInt = 1
+SampleStr = "Hello, World!"
+SampleBool = true
