@@ -6,7 +6,7 @@ This is more of just a practice/proof-of-concept project, not supposed to be use
 
 # Using
 
-The interpereter is a single-header .hpp file. A bare-bones implementation would look something like this:
+The interpereter is a single-header library, just download esml.hpp and include, A bare-bones implementation would look something like this:
 
 ```cpp
 #include "esml.hpp"
